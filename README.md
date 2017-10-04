@@ -32,10 +32,11 @@
 # What are the devices used in a single node?:
 
 * Esp8266:The ESP8266 is a low-cost Wi-Fi chip with full TCP/IP stack and MCU (microcontroller unit) capability
+
 ![alt text](https://github.com/nikhil1198/Agricultural-IOT/blob/master/esp.jpg)
 
 * Soil Moisture Sensor: Measures the volumetric water content in the soil.
-![alt text](https://github.com/nikhil1198/Agricultural-IOT/blob/master/soil moist.jpg)
+![alt text](https://github.com/nikhil1198/Agricultural-IOT/blob/master/soil%20moist.jpg)
 
 * Gas Sensors (MQ2 and MQ4): MQ2 is a smoke sensor and MQ4 is methane sensor.
 ![alt text](https://github.com/nikhil1198/Agricultural-IOT/blob/master/mq-135-gas-sensor.jpg)
