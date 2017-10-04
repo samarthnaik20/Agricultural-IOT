@@ -39,10 +39,10 @@
 ![alt text](https://github.com/nikhil1198/Agricultural-IOT/blob/master/soil%20moist.jpg)
 
 * Gas Sensors (MQ2 and MQ4): MQ2 is a smoke sensor and MQ4 is methane sensor.
-![alt text](https://github.com/nikhil1198/Agricultural-IOT/blob/master/mq-135-gas-sensor.jpg)
+![alt text](https://github.com/nikhil1198/Agricultural-IOT/blob/master/gas%20sensor.jpg)
 
 * DHT11: The DHT11 is a basic, ultra low-cost digital temperature and humidity sensor. It uses a capacitive humidity sensor and a thermistor to measure the surrounding air, and spits out a digital signal on the data pin (no analog input pins needed). 
-![alt text](https://github.com/nikhil1198/Agricultural-IOT/blob/master/dht11'.jpg)
+![alt text](https://github.com/nikhil1198/Agricultural-IOT/blob/master/dht11.jpg)
 
 
 
