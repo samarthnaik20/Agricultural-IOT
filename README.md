@@ -21,5 +21,33 @@
 
 ![alt text](https://github.com/nikhil1198/Agricultural-IOT/blob/master/image.png)
 
+# What does each node of The System measure?:
+
+* Soil Moisture: The full volume of the soil can be broken down into soil particles, roots, air, and liquid water the coats the soil particles.The soil moisture sensor sends electrical impulses and measures the conductivity of the soil which in turn is related to the moisture content of the soil.
+* Water is an important necessity for the plants so proper care must be taken to fulfill the crop requirements. It is also to not that the field must not be flooded with water as crops are damaged.The management of the requirements of the water is done by FarmAssist.
+* Temperature: The temperature readings of the nodes are much more localized that the weather forecast and provide a sense of the temperature variation in the field. The weather forecast temperature is typically a measure of the air temperature several feet above the ground which is of no significant use to the farmer.
+* Humidity: The humidity is sometimes an under-appreciated variable for the farmers.Water evaporates through the pores of the leaves which are open to take in carbon dioxide.A low humidity means a lot of water can be lost through evapotranspiration, which means the plants will require more water.
+* Gas Concentration(for storage): In the storage areas the gas sensors are used to measure the amount of methane and smoke. Methane is released when the food rots.In order to check the quality of harvested crop, methane sensors are used.The smoke sensors are used for detecting fire in the storage area.
+
+# What are the devices used in a single node?:
+
+* Esp8266:The ESP8266 is a low-cost Wi-Fi chip with full TCP/IP stack and MCU (microcontroller unit) capability
+![alt text](https://github.com/nikhil1198/Agricultural-IOT/blob/master/esp.jpg)
+
+* Soil Moisture Sensor: Measures the volumetric water content in the soil.
+![alt text](https://github.com/nikhil1198/Agricultural-IOT/blob/master/soil moist.jpg)
+
+* Gas Sensors (MQ2 and MQ4): MQ2 is a smoke sensor and MQ4 is methane sensor.
+![alt text](https://github.com/nikhil1198/Agricultural-IOT/blob/master/mq-135-gas-sensor.jpg)
+
+* DHT11: The DHT11 is a basic, ultra low-cost digital temperature and humidity sensor. It uses a capacitive humidity sensor and a thermistor to measure the surrounding air, and spits out a digital signal on the data pin (no analog input pins needed). 
+Its fairly simple to use, but requires careful timing to grab data. The only real downside of this sensor is you can only get new data from it once every 2 seconds, so when using our library, sensor readings can be up to 2 seconds old.
+![alt text](https://github.com/nikhil1198/Agricultural-IOT/blob/master/dht11'.jpg)
+
+
+
+
+
+
 
 
